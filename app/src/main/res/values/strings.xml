@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleFlux</string>
+    <string name="todo_list">To do list</string>
+</resources>
